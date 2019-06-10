@@ -11,7 +11,7 @@ int main()
    int i;
    char name[256];
    int num;
-  float input[256];
+  char input[256];
  
 printf("How many names would you like to enter\n");
 fgets(input, 256, stdin);
